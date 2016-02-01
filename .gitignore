@@ -4,5 +4,6 @@
 *.iml
 *.user
 /Debug/
+/Release/
 
 
